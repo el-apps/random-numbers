@@ -17,11 +17,6 @@ npm-debug.log
 # Local environment directories
 .DS_Store
 
-# Docker files
-Dockerfile
-docker-compose.yml
-docker-compose.override.yml
-
 # Optional npm cache directory
 .npm
 
